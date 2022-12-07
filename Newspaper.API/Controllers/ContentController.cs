@@ -12,6 +12,7 @@ using Newspaper.Core.Services;
 namespace Newspaper.API.Controllers
 {
     [Route("api/[controller]")]
+    [ApiController]
     public class ContentController : ControllerBase
     {
         private readonly IContentService contentService;

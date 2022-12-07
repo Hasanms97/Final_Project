@@ -75,9 +75,9 @@ namespace Newspaper.Infra.Repository
         public List<Video> GetViedosByPageId(int id)
         {
             var p = new DynamicParameters();
-            p.Add("p_PageID", id, dbType: DbType.String, direction: ParameterDirection.Input);
+            p.Add("p_PageID", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
-            IEnumerable<Video> result = _dbContext.Connection.Query<Video>("VIDEO_PACKAGE.GetViedosByPageId", commandType: CommandType.StoredProcedure);
+            IEnumerable<Video> result = _dbContext.Connection.Query<Video>("VIDEO_PACKAGE.GetViedosByPageId",p, commandType: CommandType.StoredProcedure);
             return result.ToList();
         }
 
@@ -87,6 +87,7 @@ namespace Newspaper.Infra.Repository
 
             p.Add("p_PAGEID", video.Pageid, dbType: DbType.String, direction: ParameterDirection.Input);
             p.Add("p_VIDEOPATH", video.Videopath, dbType: DbType.String, direction: ParameterDirection.Input);
+            p.Add("p_Id", video.Id, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
             var result = _dbContext.Connection.Execute("VIDEO_PACKAGE.UpdateVideo", p, commandType: CommandType.StoredProcedure);
             //result-->number of row effective

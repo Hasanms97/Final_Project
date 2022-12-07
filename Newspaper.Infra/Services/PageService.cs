@@ -33,9 +33,9 @@ namespace Newspaper.Infra.Services
             return pageRepository.GetAllPage();
         }
 
-        public Page GetCategoryById(int id)
+        public Page GetPageById(int id)
         {
-            return pageRepository.GetCategoryById(id);
+            return pageRepository.GetPageById(id);
         }
 
         public bool UpdatePage(Page page)

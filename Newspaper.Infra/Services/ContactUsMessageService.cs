@@ -9,36 +9,36 @@ namespace Newspaper.Infra.Services
 	public class ContactUsMessageService : IContactUsMessageService
 
 	{
-        private readonly IContactUsMessageService contactUsMessageService;
+        private readonly IContactUsMessageRepository contactUsMessageRepository;
 
-        public ContactUsMessageService(IContactUsMessageService contactUsMessageService)
+        public ContactUsMessageService(IContactUsMessageRepository contactUsMessageRepository)
         {
-            this.contactUsMessageService = contactUsMessageService;
+            this.contactUsMessageRepository = contactUsMessageRepository;
         }
 
         public bool CreateNewOurWebsite(Contactusmessage contactusmessage)
         {
-            return contactUsMessageService.CreateNewOurWebsite(contactusmessage);
+            return contactUsMessageRepository.CreateNewOurWebsite(contactusmessage);
         }
 
         public bool DeleteOurWebsite(int id)
         {
-            return contactUsMessageService.DeleteOurWebsite(id);
+            return contactUsMessageRepository.DeleteOurWebsite(id);
         }
 
         public List<Contactusmessage> GetAllOurWebsite()
         {
-            return contactUsMessageService.GetAllOurWebsite();
+            return contactUsMessageRepository.GetAllOurWebsite();
         }
 
         public Contactusmessage GetOurWebsiteById(int id)
         {
-            return contactUsMessageService.GetOurWebsiteById(id);
+            return contactUsMessageRepository.GetOurWebsiteById(id);
         }
 
         public bool UpdateOurWebsite(Contactusmessage contactusmessage)
         {
-            return contactUsMessageService.UpdateOurWebsite(contactusmessage);
+            return contactUsMessageRepository.UpdateOurWebsite(contactusmessage);
         }
     }
 }

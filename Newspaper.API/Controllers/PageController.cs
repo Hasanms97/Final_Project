@@ -6,12 +6,14 @@ using Microsoft.AspNetCore.Mvc;
 using Newspaper.Core.Data;
 using Newspaper.Core.Repository;
 using Newspaper.Core.Services;
+using Newspaper.Infra.Services;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace Newspaper.API.Controllers
 {
     [Route("api/[controller]")]
+    [ApiController]
     public class PageController : ControllerBase
     {
 
@@ -28,10 +30,10 @@ namespace Newspaper.API.Controllers
             return pageService.GetAllPage();
         }
 
-        [HttpGet("GetCategoryById/{id}")]
-        public Page GetCategoryById(int id)
+        [HttpGet("GetPageById/{id}")]
+        public Page GetPageById(int id)
         {
-            return pageService.GetCategoryById(id);
+            return pageService.GetPageById(id);
         }
 
         [HttpPost("CreateNewPage")]
@@ -46,7 +48,7 @@ namespace Newspaper.API.Controllers
             return pageService.UpdatePage(page);
         }
 
-        [HttpPost("DeletePage/{id}")]
+        [HttpDelete("DeletePage/{id}")]
         public bool DeletePage(int id)
         {
             return pageService.DeletePage(id);

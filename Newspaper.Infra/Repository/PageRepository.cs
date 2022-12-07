@@ -61,12 +61,12 @@ namespace Newspaper.Infra.Repository
             return result.ToList();
         }
 
-        public Page GetCategoryById(int id)
+        public Page GetPageById(int id)
         {
             var p = new DynamicParameters();
             p.Add("p_Id", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
-            IEnumerable<Page> result = _dbContext.Connection.Query<Page>("PAGE_PACKAGE.GetCategoryById", p, commandType: CommandType.StoredProcedure);
+            IEnumerable<Page> result = _dbContext.Connection.Query<Page>("PAGE_PACKAGE.GetPageById", p, commandType: CommandType.StoredProcedure);
             return result.FirstOrDefault();
         }
 
@@ -75,6 +75,7 @@ namespace Newspaper.Infra.Repository
             var p = new DynamicParameters();
 
             p.Add("p_PAGENAME", page.Pagename, dbType: DbType.String, direction: ParameterDirection.Input);
+            p.Add("p_Id", page.Id, dbType: DbType.Int32, direction: ParameterDirection.Input);
             p.Add("p_WEBSITEID", page.Websiteid, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
             var result = _dbContext.Connection.Execute("PAGE_PACKAGE.UpdatePage", p, commandType: CommandType.StoredProcedure);

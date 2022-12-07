@@ -1,0 +1,131 @@
+<<<<<<< HEAD
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache
+D:/tahaluf/Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+D:/tahaluf/Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+D:/tahaluf/Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+D:/tahaluf/Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache
+=======
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache
+>>>>>>> main
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.deps.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.csproj.CopyComplete
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Infra/obj/Debug/netcoreapp3.1/Newspaper.Infra.genruntimeconfig.cache

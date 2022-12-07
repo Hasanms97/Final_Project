@@ -11,6 +11,7 @@ using Newspaper.Core.Services;
 namespace Newspaper.API.Controllers
 {
     [Route("api/[controller]")]
+    [ApiController]
     public class ReplycommenttController : ControllerBase
     {
         private readonly IReplayCommentService replayCommentService;
@@ -26,7 +27,7 @@ namespace Newspaper.API.Controllers
             return replayCommentService.CreateNewReplayComment(replycommentt);
         }
 
-        [HttpPost("DeleteReplayComment")]
+        [HttpDelete("DeleteReplayComment")]
         public bool DeleteReplayComment(int id)
         {
             return replayCommentService.DeleteReplayComment(id);
@@ -38,13 +39,13 @@ namespace Newspaper.API.Controllers
             return replayCommentService.GetAllReplayComment();
         }
 
-        [HttpGet("GetAllReplayCommentOnComment")]
+        [HttpGet("GetAllReplayCommentOnComment/{id}")]
         public List<Replycommentt> GetAllReplayCommentOnComment(int id)
         {
             return replayCommentService.GetAllReplayCommentOnComment(id);
         }
 
-        [HttpGet("GetReplayCommentById")]
+        [HttpGet("GetReplayCommentById/{id}")]
         public Replycommentt GetReplayCommentById(int id)
         {
             return replayCommentService.GetReplayCommentById(id);

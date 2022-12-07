@@ -7,7 +7,7 @@ namespace Newspaper.Core.Repository
 	public interface IPageRepository
 	{
         List<Page> GetAllPage();
-        Page GetCategoryById(int id);
+        Page GetPageById(int id);
         bool CreateNewPage(Page page);
         bool UpdatePage(Page page);
         bool DeletePage(int id);

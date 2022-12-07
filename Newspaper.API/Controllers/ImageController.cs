@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -12,6 +13,7 @@ using Newspaper.Core.Services;
 namespace Newspaper.API.Controllers
 {
     [Route("api/[controller]")]
+    [ApiController]
     public class ImageController : ControllerBase
     {
 
@@ -40,22 +42,37 @@ namespace Newspaper.API.Controllers
             return imageService.GetImageById(id);
         }
 
-        [HttpGet("CreateNewImage")]
+        [HttpPost("CreateNewImage")]
         public bool CreateNewImage(Image image)
         {
             return imageService.CreateNewImage(image);
         }
 
-        [HttpGet("UpdateImage")]
+        [HttpPut("UpdateImage")]
         public bool UpdateImage(Image image)
         {
             return imageService.UpdateImage(image);
         }
 
-        [HttpGet("DeleteImage/{id}")]
+        [HttpPost("DeleteImage/{id}")]
         public bool DeleteImage(int id)
         {
             return imageService.DeleteImage(id);
+        }
+
+        [HttpPost("UploadImage")]
+        public Image UploadImage()
+        {
+            var file = Request.Form.Files[0];
+            var fileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+            var fullPath = Path.Combine("Files/Page/Image/", fileName);
+            using (var stream = new FileStream(fullPath, FileMode.Create))
+            {
+                file.CopyTo(stream);
+            }
+            Image image = new Image();
+            image.Imagepath = fileName;
+            return image;
         }
     }
 }

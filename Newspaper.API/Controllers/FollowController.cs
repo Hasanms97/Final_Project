@@ -12,6 +12,7 @@ using Newspaper.Core.Services;
 namespace Newspaper.API.Controllers
 {
     [Route("api/[controller]")]
+    [ApiController]
     public class FollowController : ControllerBase
     {
 
@@ -46,7 +47,7 @@ namespace Newspaper.API.Controllers
             return followService.UpdateFollow(follow);
         }
 
-        [HttpPost("DeleteFollow/{id}")]
+        [HttpDelete("DeleteFollow/{id}")]
         public bool DeleteFollow(int id)
         {
             return followService.DeleteFollow(id);
@@ -54,9 +55,9 @@ namespace Newspaper.API.Controllers
 
         //WARNING JSON
         [HttpGet("CheckFollowers/")]
-        public bool CheckFollowers(int p_UserID, int p_PressManID)
+        public bool CheckFollowers(Follow follow)
         {
-            return followService.CheckFollowers(p_UserID, p_PressManID);
+            return followService.CheckFollowers((int)follow.Userid,(int)follow.Pressmanid);
         }
 
         [HttpGet("GetNumberOfFollowers/{p_PressManID}")]

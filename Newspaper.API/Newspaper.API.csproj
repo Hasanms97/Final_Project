@@ -19,6 +19,7 @@
     <PackageReference Include="Oracle.EntityFrameworkCore" Version="5.21.4" />
     <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.4" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.21" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
   <ItemGroup>
@@ -31,10 +32,23 @@
     <Folder Include="Files\Advertisement\Video\" />
     <Folder Include="Files\ImageTV\" />
     <Folder Include="Files\OtherImage\" />
+    <Folder Include="Files\News\" />
+    <Folder Include="Files\News\Video\" />
+    <Folder Include="Files\News\Image\" />
+    <Folder Include="Files\Page\" />
+    <Folder Include="Files\Page\Image\" />
+    <Folder Include="Files\Page\Video\" />
   </ItemGroup>
 
 
   <ItemGroup>
     <None Remove="Microsoft.AspNetCore.Authentication.JwtBearer" />
+    <None Remove="Files\News\" />
+    <None Remove="Files\News\Video\" />
+    <None Remove="Files\News\Image\" />
+    <None Remove="Files\Page\" />
+    <None Remove="Files\Page\Image\" />
+    <None Remove="Files\Page\Video\" />
+    <None Remove="Newtonsoft.Json" />
   </ItemGroup>
 </Project>

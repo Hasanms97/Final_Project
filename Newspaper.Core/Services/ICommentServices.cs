@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Newspaper.Core.Services
 {
@@ -14,7 +15,7 @@ namespace Newspaper.Core.Services
 
         int GetAllNumberOfComments(int newsId);
         News GetCommentById(int id);
-        List<Commentt> GetAllNewsComments(int id);
+        Task<List<Commentt>> GetAllNewsComments(int id);
         List<Commentt> GetAllUsersComments(int userId);
     }
 }

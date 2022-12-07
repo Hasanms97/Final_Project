@@ -26,7 +26,6 @@ namespace Newspaper.Infra.Repository
             p.Add("p_COMMENTTID", replycommentt.Commenttid, dbType: DbType.Int32, direction: ParameterDirection.Input);
             p.Add("p_USERID", replycommentt.Userid, dbType: DbType.Int32, direction: ParameterDirection.Input);
             p.Add("p_TEXT", replycommentt.Text, dbType: DbType.String, direction: ParameterDirection.Input);
-            p.Add("p_ID", replycommentt.Id, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
             var result = _dbContext.Connection.Execute("REPLYCOMMENTT_PACKAGE.CreateNewReplayComment", p, commandType: CommandType.StoredProcedure);
             //result-->number of row effective
@@ -66,7 +65,11 @@ namespace Newspaper.Infra.Repository
 
         public List<Replycommentt> GetAllReplayCommentOnComment(int id)
         {
-            throw new NotImplementedException();
+            var p = new DynamicParameters();
+            p.Add("p_ID", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
+
+            IEnumerable<Replycommentt> result = _dbContext.Connection.Query<Replycommentt>("REPLYCOMMENTT_PACKAGE.GetAllReplayCommentOnComment",p, commandType: CommandType.StoredProcedure);
+            return result.ToList();
         }
 
         public Replycommentt GetReplayCommentById(int id)
