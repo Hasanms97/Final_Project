@@ -17,6 +17,7 @@ using Newspaper.Infra.Repository;
 using Newspaper.Infra.Services;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -167,6 +168,37 @@ namespace Newspaper.API
             //Bankvisa
             services.AddScoped<IBankvisaRepository, BankvisaRepository>();
             services.AddScoped<IBankvisaServices, BankvisaServices>();
+
+            //ContactUsMessage
+            services.AddScoped<IContactUsMessageRepository, ContactUsMessageRepository>();
+            services.AddScoped<IContactUsMessageService, ContactUsMessageService>();
+
+            //Page
+            services.AddScoped<IPageRepository, PageRepository>();
+            services.AddScoped<IPageService, PageService>();
+
+            //Content
+            services.AddScoped<IContentRepository, ContentRepository>();
+            services.AddScoped<IContentService, ContentService>();
+
+            //Image
+            services.AddScoped<IImageRepository, ImageRepository>();
+            services.AddScoped<IImageService, ImageService>();
+
+            //Video
+            services.AddScoped<IVideoRepository, VideoRepositroy>();
+            services.AddScoped<IVideoService, VideoService>();
+
+            //Follow
+            services.AddScoped<IFollowRepository, FollowRepository>();
+            services.AddScoped<IFollowService, FollowService>();
+
+
+            //ReplayComment
+            services.AddScoped<IReplayCommentRepository, ReplayCommentRepository>();
+            services.AddScoped<IReplayCommentService, ReplayCommentService>();
+
+
 
 
         }

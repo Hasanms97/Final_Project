@@ -22,6 +22,7 @@ namespace Newspaper.Infra.Repository
         {
             var p = new DynamicParameters();
 
+            p.Add("p_Id", contactusmessage.Id, dbType: DbType.Int32, direction: ParameterDirection.Input);
             p.Add("p_MESSAGE", contactusmessage.Message, dbType: DbType.String, direction: ParameterDirection.Input);
             p.Add("p_PHONE", contactusmessage.Phone, dbType: DbType.String, direction: ParameterDirection.Input);
             p.Add("p_RESPONDADMIN", contactusmessage.Respondadmin, dbType: DbType.String, direction: ParameterDirection.Input);
@@ -79,6 +80,7 @@ namespace Newspaper.Infra.Repository
         {
             var p = new DynamicParameters();
 
+            p.Add("p_Id", contactusmessage.Id, dbType: DbType.Int32, direction: ParameterDirection.Input);
             p.Add("p_MESSAGE", contactusmessage.Message, dbType: DbType.String, direction: ParameterDirection.Input);
             p.Add("p_PHONE", contactusmessage.Phone, dbType: DbType.String, direction: ParameterDirection.Input);
             p.Add("p_RESPONDADMIN", contactusmessage.Respondadmin, dbType: DbType.String, direction: ParameterDirection.Input);

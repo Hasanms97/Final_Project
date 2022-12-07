@@ -1,0 +1,787 @@
+<<<<<<< HEAD
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.exe
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.exe
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.exe
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+D:/tahaluf/Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Pack.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.Newspaper.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.exe
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+=======
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.exe
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+>>>>>>> main
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Pack.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.Newspaper.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.deps.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.API.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Azure.Identity.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.EntityFrameworkCore.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Oracle.ManagedDataAccess.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Diagnostics.PerformanceCounter.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.IO.FileSystem.AccessControl.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/linux/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/osx/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.IO.FileSystem.AccessControl.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newspaper.Infra.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Manifest.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/Newspaper.API.StaticWebAssets.Pack.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.Newspaper.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.Newspaper.API.props
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.RazorTargetAssemblyInfo.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.csproj.CopyComplete
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/obj/Debug/netcoreapp3.1/Newspaper.API.genruntimeconfig.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

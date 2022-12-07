@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Newspaper.Core.Data;
 using Newspaper.Core.Services;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Newspaper.API.Controllers
 {
@@ -23,7 +24,6 @@ namespace Newspaper.API.Controllers
 
 
         [HttpPost("CreateNewComment")]
-
         public bool CreateNewComment(Commentt comment)
         {
 
@@ -54,12 +54,13 @@ namespace Newspaper.API.Controllers
         {
             return _comentServices.GetCommentById(id);
         }
-        [HttpGet("GetAllNewsComments/{newsId}")]
-        public List<Commentt> GetAllNewsComments(int newsId)
-        {
 
+        [HttpGet("GetAllNewsComments/{newsId}")]
+        public Task<List<Commentt>> GetAllNewsComments(int newsId)
+        {
             return _comentServices.GetAllNewsComments(newsId);
         }
+
         [HttpGet("GetAllUsersComments/{userId}")]
         public List<Commentt> GetAllUsersComments(int userId) 
         {

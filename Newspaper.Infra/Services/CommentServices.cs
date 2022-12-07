@@ -5,6 +5,7 @@ using Newspaper.Infra.Repository;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Newspaper.Infra.Services
 {
@@ -43,7 +44,7 @@ namespace Newspaper.Infra.Services
 
             return commentRepository.GetCommentById(id);
         }
-        public List<Commentt> GetAllNewsComments(int id)
+        public Task<List<Commentt>> GetAllNewsComments(int id)
         {
             return commentRepository.GetAllNewsComments(id);
         }

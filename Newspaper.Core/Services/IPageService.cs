@@ -9,7 +9,7 @@ namespace Newspaper.Core.Services
 	public interface IPageService
 	{
         List<Page> GetAllPage();
-        Page GetCategoryById(int id);
+        Page GetPageById(int id);
         bool CreateNewPage(Page page);
         bool UpdatePage(Page page);
         bool DeletePage(int id);

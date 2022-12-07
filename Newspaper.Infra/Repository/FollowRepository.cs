@@ -25,9 +25,16 @@ namespace Newspaper.Infra.Repository
             p.Add("p_PRESSMANID", p_PressManID, dbType: DbType.Int32, direction: ParameterDirection.Input);
             p.Add("p_USERID", p_UserID, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
-            var count = _dbContext.Connection.Query("FOLLOW_PACKAGE.CheckFollowers", p, commandType: CommandType.StoredProcedure);
+            var count = _dbContext.Connection.Query("FOLLOW_PACKAGE.CheckFollowers", p, commandType: CommandType.StoredProcedure).Count();
 
-            return (dynamic) count;
+            if(count > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }  
         }
 
         public bool CreateNewFollow(Follow follow)
@@ -92,9 +99,9 @@ namespace Newspaper.Infra.Repository
 
             p.Add("p_PressManID", p_PressManID, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
-            var count = _dbContext.Connection.Query("FOLLOW_PACKAGE.GetNumberOfFollowers", commandType: CommandType.StoredProcedure);
+            int result = _dbContext.Connection.ExecuteScalar<int>("FOLLOW_PACKAGE.GetNumberOfFollowers",p, commandType: CommandType.StoredProcedure);
 
-            return (dynamic) count;
+            return result;
         }
 
         public bool UpdateFollow(Follow follow)
@@ -103,6 +110,7 @@ namespace Newspaper.Infra.Repository
 
             p.Add("p_PRESSMANID", follow.Pressmanid, dbType: DbType.Int32, direction: ParameterDirection.Input);
             p.Add("p_USERID", follow.Userid, dbType: DbType.Int32, direction: ParameterDirection.Input);
+            p.Add("p_Id", follow.Id, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
             var result = _dbContext.Connection.Execute("FOLLOW_PACKAGE.UpdateFollow", p, commandType: CommandType.StoredProcedure);
             //result-->number of row effective

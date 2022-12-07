@@ -74,9 +74,9 @@ namespace Newspaper.Infra.Repository
         public List<Image> GetImagesByPageId(int id)
         {
             var p = new DynamicParameters();
-            p.Add("p_Id", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
+            p.Add("p_PageID", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
-            IEnumerable<Image> result = _dbContext.Connection.Query<Image>("IMAGE_PACKAGE.GetAllImage", p, commandType: CommandType.StoredProcedure);
+            IEnumerable<Image> result = _dbContext.Connection.Query<Image>("IMAGE_PACKAGE.GetImagesByPageId", p, commandType: CommandType.StoredProcedure);
             return result.ToList();
         }
 
@@ -86,6 +86,7 @@ namespace Newspaper.Infra.Repository
 
             p.Add("p_PAGEID", image.Pageid, dbType: DbType.String, direction: ParameterDirection.Input);
             p.Add("p_IMAGEPATH", image.Imagepath, dbType: DbType.String, direction: ParameterDirection.Input);
+            p.Add("p_Id", image.Id, dbType: DbType.Int32, direction: ParameterDirection.Input);
 
             var result = _dbContext.Connection.Execute("IMAGE_PACKAGE.UpdateImage", p, commandType: CommandType.StoredProcedure);
             //result-->number of row effective

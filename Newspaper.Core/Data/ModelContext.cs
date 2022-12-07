@@ -736,7 +736,7 @@ namespace Newspaper.Core.Data
 
                 entity.Property(e => e.DateReplycomment)
                     .HasPrecision(6)
-                    .HasColumnName("DATE_REPLYCOMMENT");
+                    .HasColumnName("DATEREPLYCOMMENT");
 
                 entity.Property(e => e.Text)
                     .IsUnicode(false)

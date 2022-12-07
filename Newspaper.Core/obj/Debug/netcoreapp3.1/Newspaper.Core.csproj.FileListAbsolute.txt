@@ -1,0 +1,107 @@
+<<<<<<< HEAD
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/FP/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.API/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache
+D:/tahaluf/Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+D:/tahaluf/Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+D:/tahaluf/Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+D:/tahaluf/Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+D:/tahaluf/Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Intrentship/Tahaluf/Final Project/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/OneDrive/Desktop/hasam/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache
+=======
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+C:/Users/basha/Source/Repos/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache
+>>>>>>> main
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/Final-Project_Newspaper/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.deps.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.runtimeconfig.dev.json
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/bin/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.AssemblyReference.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfoInputs.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.AssemblyInfo.cs
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.csproj.CoreCompileInputs.cache
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.dll
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.pdb
+/Users/hasanal-shannag/Desktop/HASANFINAL/Newspaper.Core/obj/Debug/netcoreapp3.1/Newspaper.Core.genruntimeconfig.cache

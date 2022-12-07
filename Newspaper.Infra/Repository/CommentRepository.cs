@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Newspaper.Infra.Repository
 {
@@ -102,12 +103,33 @@ namespace Newspaper.Infra.Repository
             IEnumerable<News> result = _dbContext.Connection.Query<News>("COMMENTT_tapi.GetCommentById", p, commandType: CommandType.StoredProcedure);
             return result.FirstOrDefault();
         }
-        public List<Commentt> GetAllNewsComments(int id)
+        public async Task<List<Commentt>> GetAllNewsComments(int id)
         {
             var p = new DynamicParameters();
             p.Add("p_NEWSID", id, dbType: DbType.Int32, direction: ParameterDirection.Input);
-            IEnumerable<Commentt> result = _dbContext.Connection.Query<Commentt>("COMMENTT_tapi.GetAllNewsComments",p, commandType: CommandType.StoredProcedure);
-            return result.ToList();
+
+            var result = await _dbContext.Connection.QueryAsync<Commentt, Replycommentt, Commentt>("COMMENTT_tapi.GetAllNewsComments",
+            (Commentt,replycommentt) =>
+            {
+
+                Commentt.Replycommentts.Add(replycommentt);
+                return Commentt;
+
+
+            },p, splitOn: "Id",
+            commandType: CommandType.StoredProcedure
+            );
+
+
+            var results = result.GroupBy(p => p.Id).Select(g =>
+            {
+                var groupedPost = g.First();
+                groupedPost.Replycommentts = g.Select(p => p.Replycommentts.Single()).ToList();
+                return groupedPost;
+            });
+
+
+            return results.ToList();
 
         }
         public List<Commentt> GetAllUsersComments(int userId)

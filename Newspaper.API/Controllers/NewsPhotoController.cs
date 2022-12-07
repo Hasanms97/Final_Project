@@ -3,7 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using Newspaper.Core.Data;
 using Newspaper.Core.Repository;
 using Newspaper.Core.Services;
+using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Newspaper.API.Controllers
 {
@@ -48,6 +50,19 @@ namespace Newspaper.API.Controllers
         {
             return _newsPhotoServices.GetAllPhoto();
         }
+        [HttpPost("UploadNewImage")]
+        public Newsphoto UploadNewImage()
+        {
+            var file = Request.Form.Files[0];
+            var fileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+            var fullPath = Path.Combine("Files/News/Image/", fileName);
+            using (var stream = new FileStream(fullPath, FileMode.Create))
+            {
+                file.CopyTo(stream);
+            }
+            Newsphoto newsphoto = new Newsphoto();
+            newsphoto.Imagepath = fileName;
+            return newsphoto;
+        }
     }
 }
-
